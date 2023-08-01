@@ -1,7 +1,7 @@
 ### Hi, I'm Ana 👋
 
-💻 Fullstack Developer
+✨ Fullstack Developer
 
-`</>` Ruby on Rails, React, Python, Linux
+💻 Ruby on Rails, React, Python, Linux
 
-📧 ana.lubo99@gmail.com
+💬 ana.lubo99@gmail.com
