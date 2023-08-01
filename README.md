@@ -1,5 +1,5 @@
-### Hi, I'm Ana 👋
-✨ Fullstack Developer
+### Hi, there 👋
+✨ I'm Ana, a Fullstack Developer from Argentina 
 
 ### 💻 Tech Stack
 [![Everyday](https://skillicons.dev/icons?i=ruby,rails,react,postgresql,postman,docker,git,bash,linux)](https://skillicons.dev)
