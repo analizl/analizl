@@ -8,7 +8,9 @@
 
 ### Other technologies I have used:
 
-[![Skills](https://skillicons.dev/icons?i=rails,postgresql,postman,docker,ruby,js,bootstrap,html,css,jquery,php,py,flask,mongodb)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=rails,postgresql,postman,docker,ruby,js,bootstrap,html)](https://skillicons.dev)
+
+[![Skills2](https://skillicons.dev/icons?i=css,jquery,php,py,flask,mongodb)](https://skillicons.dev)
 
 ## Get in touch
 💬 ana.lubo99@gmail.com
