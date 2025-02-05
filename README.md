@@ -4,7 +4,7 @@
 ## 💻 Tech Stack
 ### On a day-to-day basis I work with:
 
-[![Everyday](https://skillicons.dev/icons?i=react,nextjs,tailwind,mysql,git,bash,linux)](https://skillicons.dev)
+[![Everyday](https://skillicons.dev/icons?i=react,nextjs,tailwind,mysql,git,bash,linux,django)](https://skillicons.dev)
 
 ### Other technologies I have used:
 
