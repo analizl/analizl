@@ -13,7 +13,7 @@ jobs:
           base: ""
           template: classic
           config_timezone: America/Argentina/Buenos_Aires
-          plugin_lines: yes # Shows code additions/deletions and commits
-          plugin_activity: yes # Tracks recent activity including unmerged/active branches
+          #plugin_lines: yes # Shows code additions/deletions and commits
+          #plugin_activity: yes # Tracks recent activity including unmerged/active branches
           plugin_calendar: yes
           plugin_calendar_limit: 1
