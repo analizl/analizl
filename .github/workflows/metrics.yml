@@ -15,5 +15,7 @@ jobs:
           config_timezone: America/Argentina/Buenos_Aires
           #plugin_lines: yes # Shows code additions/deletions and commits
           #plugin_activity: yes # Tracks recent activity including unmerged/active branches
+          repositories_affiliations: owner, collaborator, organization_member
           plugin_calendar: yes
           plugin_calendar_limit: 1
+          plugin_calendar_with_all_time: yes
