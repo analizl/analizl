@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}] # Runs daily
+  #schedule: [{cron: "0 0 * * *"}] # Runs daily
   workflow_dispatch:
 jobs:
   github-metrics:
